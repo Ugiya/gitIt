@@ -1,1 +1,2 @@
 Hi Git!
+Changed added to file - this new line
